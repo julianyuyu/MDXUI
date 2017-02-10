@@ -1,2 +1,4 @@
-# LDXUI
-Lightweight DirectX UI
+# MDXUI
+Mini DirectX UI
+
+![](assets/MDXUI.png)
