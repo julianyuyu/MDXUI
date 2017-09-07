@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="mdxui">
+      <UniqueIdentifier>{bc9661c9-c94b-416d-9d58-5a6109c15026}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mfont">
+      <UniqueIdentifier>{e686ec36-fc8b-4a56-8fea-b60c50dc1b62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="miniut">
+      <UniqueIdentifier>{fd560bf9-9098-4a27-a392-e6589c309917}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mdxui\mdxuimodel.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuirenderer.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuishader.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuitex.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuimanager.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mfont\fontshader.h">
+      <Filter>mfont</Filter>
+    </ClInclude>
+    <ClInclude Include="mfont\fonttext.h">
+      <Filter>mfont</Filter>
+    </ClInclude>
+    <ClInclude Include="mfont\fontrenderer.h">
+      <Filter>mfont</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\dds.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\ddsloader.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\mutshader.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\muttex.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\orthorenderer.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\timer.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\XMWrapper.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="miniut\creator.h">
+      <Filter>miniut</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxui.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuiwindow.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuicontrolbase.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuicontrol.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+    <ClInclude Include="inc.h" />
+    <ClInclude Include="mfont\defcharlist.h">
+      <Filter>mfont</Filter>
+    </ClInclude>
+    <ClInclude Include="mdxui\mdxuiTexData.h">
+      <Filter>mdxui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mdxui\mdxuirenderer.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuishader.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuitex.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxui.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuimodel.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mfont\fontshader.cpp">
+      <Filter>mfont</Filter>
+    </ClCompile>
+    <ClCompile Include="mfont\fonttext.cpp">
+      <Filter>mfont</Filter>
+    </ClCompile>
+    <ClCompile Include="mfont\fontrenderer.cpp">
+      <Filter>mfont</Filter>
+    </ClCompile>
+    <ClCompile Include="miniut\ddsloader.cpp">
+      <Filter>miniut</Filter>
+    </ClCompile>
+    <ClCompile Include="miniut\ddsutil.cpp">
+      <Filter>miniut</Filter>
+    </ClCompile>
+    <ClCompile Include="miniut\mutshader.cpp">
+      <Filter>miniut</Filter>
+    </ClCompile>
+    <ClCompile Include="miniut\orthorenderer.cpp">
+      <Filter>miniut</Filter>
+    </ClCompile>
+    <ClCompile Include="miniut\creator.cpp">
+      <Filter>miniut</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuiwindow.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuimanager.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\mdxuicontrol.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+    <ClCompile Include="mdxui\pch.cpp">
+      <Filter>mdxui</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

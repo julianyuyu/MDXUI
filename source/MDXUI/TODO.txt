@@ -1,0 +1,6 @@
+1. set visibility
+2. window close button
+3. set text color
+4. get text width
+5. re-org include files
+6. save-restore IA (Layout/VB/IB/Topology), in case app not set in each frame rending.
